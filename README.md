@@ -26,7 +26,13 @@ Este projeto foi criado para aprimorar habilidades em desenvolvimento web, inclu
 
 👉 https://ricardomartins33.github.io/Ricardomartins33-Cafe-no-ponto/
 
+---
 
+## 📸 Preview
+
+*(adicione um print do site aqui futuramente)*
+
+---
 
 ## 👨‍💻 Autor
 
